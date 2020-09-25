@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/firewall",
+    "name": "mwkcoding/firewall",
     "description": "A Laravel IP whitelisting and blacklisting",
     "keywords": [
         "firewall",
